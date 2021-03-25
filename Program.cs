@@ -6,7 +6,12 @@ namespace FizzBuzz
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int counter = 0;
+
+            while (counter < 100)
+            {
+                System.Console.WriteLine(counter);
+            }
         }
     }
 }
