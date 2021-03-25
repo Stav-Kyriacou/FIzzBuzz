@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\VSProjects\\Programming\\Week4\\FizzBuzz\\FizzBuzz.csproj",
+      "projectUniqueName": "F:\\VSProjects\\Programming\\Week4\\FizzBuzz\\FizzBuzz\\FizzBuzz.csproj",
       "projectName": "FizzBuzz",
-      "projectPath": "F:\\VSProjects\\Programming\\Week4\\FizzBuzz\\FizzBuzz.csproj",
+      "projectPath": "F:\\VSProjects\\Programming\\Week4\\FizzBuzz\\FizzBuzz\\FizzBuzz.csproj",
       "packagesPath": "C:\\Users\\Stavros\\.nuget\\packages\\",
-      "outputPath": "F:\\VSProjects\\Programming\\Week4\\FizzBuzz\\obj\\",
+      "outputPath": "F:\\VSProjects\\Programming\\Week4\\FizzBuzz\\FizzBuzz\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
