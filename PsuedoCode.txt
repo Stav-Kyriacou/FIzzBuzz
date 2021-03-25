@@ -1,0 +1,19 @@
+WHILE (counter <= 100)
+{
+    IF(counter % 5 and counter % 3 = 0)
+    {
+        PRINT FizzBuzz
+    }
+    ELSE IF (counter % 3 = 0)
+    {
+        PRINT Fizz
+    }
+    ELSE IF (counter % 5 = 0)
+    {
+        PRINT Buzz
+    }
+    ELSE
+    {
+        PRINT counter
+    }
+}
