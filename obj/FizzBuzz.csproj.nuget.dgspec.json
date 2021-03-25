@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\VSProjects\\Programming\\Week4\\FizzBuzz\\FizzBuzz\\FizzBuzz.csproj": {}
+    "F:\\VSProjects\\Programming\\Week4\\FizzBuzz\\FizzBuzz.csproj": {}
   },
   "projects": {
-    "F:\\VSProjects\\Programming\\Week4\\FizzBuzz\\FizzBuzz\\FizzBuzz.csproj": {
+    "F:\\VSProjects\\Programming\\Week4\\FizzBuzz\\FizzBuzz.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\VSProjects\\Programming\\Week4\\FizzBuzz\\FizzBuzz\\FizzBuzz.csproj",
+        "projectUniqueName": "F:\\VSProjects\\Programming\\Week4\\FizzBuzz\\FizzBuzz.csproj",
         "projectName": "FizzBuzz",
-        "projectPath": "F:\\VSProjects\\Programming\\Week4\\FizzBuzz\\FizzBuzz\\FizzBuzz.csproj",
+        "projectPath": "F:\\VSProjects\\Programming\\Week4\\FizzBuzz\\FizzBuzz.csproj",
         "packagesPath": "C:\\Users\\Stavros\\.nuget\\packages\\",
-        "outputPath": "F:\\VSProjects\\Programming\\Week4\\FizzBuzz\\FizzBuzz\\obj\\",
+        "outputPath": "F:\\VSProjects\\Programming\\Week4\\FizzBuzz\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
